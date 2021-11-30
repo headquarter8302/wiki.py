@@ -2,6 +2,11 @@
   "bannedWords": [
     "example",
     "example2",
-    "trynamingyourpagethislol"
+    "trynamingyourpagethislol",
+    "wikiInfo",
+    "wikiInfo.json",
+    "database.json",
+    "bannedWords",
+    "bannedWords.json"
   ]
 }
